@@ -23,3 +23,5 @@ cat id_rsa.pub
 su
 systemctl stop sshd
 su
+ssu
+su

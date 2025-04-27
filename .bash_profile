@@ -1,5 +1,5 @@
 # .bash_profile
-
+alias python='/usr/local/bin/python3'
 # Get the aliases and functions
 if [ -f ~/.bashrc ]; then
 	. ~/.bashrc
